@@ -1,6 +1,6 @@
 flows:
-  344e4821-b9f4-4719-a4e2-080db1d4ec2f: {ver: 2, file: Demo0002.snapshot, comments: Included
-      Update Attribute, author: anonymous, created: 1698910018519, flowName: Demo0002,
+  344e4821-b9f4-4719-a4e2-080db1d4ec2f: {ver: 3, file: Demo0002.snapshot, comments: Include
+      Property in Update Attribute, author: anonymous, created: 1698919849209, flowName: Demo0002,
     flowDesc: ''}
 layoutVer: 1
 bucketId: 11a6ab99-3c99-4f1e-9767-ae25d62f1cbf

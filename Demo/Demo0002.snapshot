@@ -15,16 +15,16 @@
           "componentType" : "CONNECTION",
           "destination" : {
             "comments" : "",
-            "groupId" : "65dc62e5-e20e-3266-b1f6-8938f9b10464",
+            "groupId" : "b2c30f9f-6d2a-35f3-892d-273e4f33de6a",
             "id" : "003d2ed5-1213-37d0-b7a8-18c80d4a5c0a",
-            "instanceIdentifier" : "8eec6ff6-018b-1000-ef4f-d7308f874f84",
+            "instanceIdentifier" : "c6da0eb0-b777-3216-33b5-9a7bd449e61e",
             "name" : "UpdateAttribute",
             "type" : "PROCESSOR"
           },
           "flowFileExpiration" : "0 sec",
-          "groupIdentifier" : "65dc62e5-e20e-3266-b1f6-8938f9b10464",
+          "groupIdentifier" : "b2c30f9f-6d2a-35f3-892d-273e4f33de6a",
           "identifier" : "993f2ffe-a942-3842-841e-66d215b2e09a",
-          "instanceIdentifier" : "8eec841c-018b-1000-124b-69bbf9655f02",
+          "instanceIdentifier" : "06e99f63-02bb-3d33-7a7c-d0de3eecd674",
           "labelIndex" : 1,
           "loadBalanceCompression" : "DO_NOT_COMPRESS",
           "loadBalanceStrategy" : "DO_NOT_LOAD_BALANCE",
@@ -34,9 +34,9 @@
           "selectedRelationships" : [ "success" ],
           "source" : {
             "comments" : "",
-            "groupId" : "65dc62e5-e20e-3266-b1f6-8938f9b10464",
+            "groupId" : "b2c30f9f-6d2a-35f3-892d-273e4f33de6a",
             "id" : "999020a9-0e6c-3900-9941-dad3ebd23a7c",
-            "instanceIdentifier" : "8ec5efa2-018b-1000-7ec4-f00671c1c974",
+            "instanceIdentifier" : "118188d0-4799-34c4-9969-8659f8bb1a9b",
             "name" : "GenerateFlowFile",
             "type" : "PROCESSOR"
           },
@@ -48,16 +48,16 @@
           "componentType" : "CONNECTION",
           "destination" : {
             "comments" : "",
-            "groupId" : "65dc62e5-e20e-3266-b1f6-8938f9b10464",
+            "groupId" : "b2c30f9f-6d2a-35f3-892d-273e4f33de6a",
             "id" : "ee4be909-2f6f-357e-ae2c-2c465e844921",
-            "instanceIdentifier" : "8ec600ff-018b-1000-7033-61beefca3a98",
+            "instanceIdentifier" : "fcb38e50-97d2-3656-a245-703d83a92c3e",
             "name" : "LogMessage",
             "type" : "PROCESSOR"
           },
           "flowFileExpiration" : "0 sec",
-          "groupIdentifier" : "65dc62e5-e20e-3266-b1f6-8938f9b10464",
+          "groupIdentifier" : "b2c30f9f-6d2a-35f3-892d-273e4f33de6a",
           "identifier" : "abedb52c-a7b2-3168-a0e1-0c3dd38fed8c",
-          "instanceIdentifier" : "8eec9139-018b-1000-0015-f58f1d7c60f9",
+          "instanceIdentifier" : "91449b1f-6a38-3eb3-b36b-6d42e93d7843",
           "labelIndex" : 1,
           "loadBalanceCompression" : "DO_NOT_COMPRESS",
           "loadBalanceStrategy" : "DO_NOT_LOAD_BALANCE",
@@ -67,9 +67,9 @@
           "selectedRelationships" : [ "success" ],
           "source" : {
             "comments" : "",
-            "groupId" : "65dc62e5-e20e-3266-b1f6-8938f9b10464",
+            "groupId" : "b2c30f9f-6d2a-35f3-892d-273e4f33de6a",
             "id" : "003d2ed5-1213-37d0-b7a8-18c80d4a5c0a",
-            "instanceIdentifier" : "8eec6ff6-018b-1000-ef4f-d7308f874f84",
+            "instanceIdentifier" : "c6da0eb0-b777-3216-33b5-9a7bd449e61e",
             "name" : "UpdateAttribute",
             "type" : "PROCESSOR"
           },
@@ -82,15 +82,15 @@
         "flowFileConcurrency" : "UNBOUNDED",
         "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
         "funnels" : [ ],
-        "identifier" : "65dc62e5-e20e-3266-b1f6-8938f9b10464",
+        "identifier" : "b2c30f9f-6d2a-35f3-892d-273e4f33de6a",
         "inputPorts" : [ ],
-        "instanceIdentifier" : "8ec5d03d-018b-1000-ad43-f4cbea83f4ff",
+        "instanceIdentifier" : "8f830eab-018b-1000-f97b-4e3196612326",
         "labels" : [ ],
         "name" : "Demo",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 312.0,
-          "y" : 16.0
+          "x" : 362.0,
+          "y" : 109.0
         },
         "processGroups" : [ ],
         "processors" : [ {
@@ -106,9 +106,9 @@
           "componentType" : "PROCESSOR",
           "concurrentlySchedulableTaskCount" : 1,
           "executionNode" : "ALL",
-          "groupIdentifier" : "65dc62e5-e20e-3266-b1f6-8938f9b10464",
+          "groupIdentifier" : "b2c30f9f-6d2a-35f3-892d-273e4f33de6a",
           "identifier" : "ee4be909-2f6f-357e-ae2c-2c465e844921",
-          "instanceIdentifier" : "8ec600ff-018b-1000-7033-61beefca3a98",
+          "instanceIdentifier" : "fcb38e50-97d2-3656-a245-703d83a92c3e",
           "maxBackoffPeriod" : "10 mins",
           "name" : "LogMessage",
           "penaltyDuration" : "30 sec",
@@ -161,9 +161,9 @@
           "componentType" : "PROCESSOR",
           "concurrentlySchedulableTaskCount" : 1,
           "executionNode" : "ALL",
-          "groupIdentifier" : "65dc62e5-e20e-3266-b1f6-8938f9b10464",
+          "groupIdentifier" : "b2c30f9f-6d2a-35f3-892d-273e4f33de6a",
           "identifier" : "003d2ed5-1213-37d0-b7a8-18c80d4a5c0a",
-          "instanceIdentifier" : "8eec6ff6-018b-1000-ef4f-d7308f874f84",
+          "instanceIdentifier" : "c6da0eb0-b777-3216-33b5-9a7bd449e61e",
           "maxBackoffPeriod" : "10 mins",
           "name" : "UpdateAttribute",
           "penaltyDuration" : "30 sec",
@@ -172,6 +172,7 @@
             "y" : 168.0
           },
           "properties" : {
+            "filename" : "update.csv",
             "Store State" : "Do not store state",
             "canonical-value-lookup-cache-size" : "100"
           },
@@ -180,6 +181,12 @@
               "displayName" : "Delete Attributes Expression",
               "identifiesControllerService" : false,
               "name" : "Delete Attributes Expression",
+              "sensitive" : false
+            },
+            "filename" : {
+              "displayName" : "filename",
+              "identifiesControllerService" : false,
+              "name" : "filename",
               "sensitive" : false
             },
             "Store State" : {
@@ -223,9 +230,9 @@
           "componentType" : "PROCESSOR",
           "concurrentlySchedulableTaskCount" : 1,
           "executionNode" : "ALL",
-          "groupIdentifier" : "65dc62e5-e20e-3266-b1f6-8938f9b10464",
+          "groupIdentifier" : "b2c30f9f-6d2a-35f3-892d-273e4f33de6a",
           "identifier" : "999020a9-0e6c-3900-9941-dad3ebd23a7c",
-          "instanceIdentifier" : "8ec5efa2-018b-1000-7ec4-f00671c1c974",
+          "instanceIdentifier" : "118188d0-4799-34c4-9969-8659f8bb1a9b",
           "maxBackoffPeriod" : "10 mins",
           "name" : "GenerateFlowFile",
           "penaltyDuration" : "30 sec",
