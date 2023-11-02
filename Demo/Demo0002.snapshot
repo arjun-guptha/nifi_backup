@@ -172,7 +172,6 @@
             "y" : 168.0
           },
           "properties" : {
-            "filename" : "update.csv",
             "Store State" : "Do not store state",
             "canonical-value-lookup-cache-size" : "100"
           },
@@ -181,12 +180,6 @@
               "displayName" : "Delete Attributes Expression",
               "identifiesControllerService" : false,
               "name" : "Delete Attributes Expression",
-              "sensitive" : false
-            },
-            "filename" : {
-              "displayName" : "filename",
-              "identifiesControllerService" : false,
-              "name" : "filename",
               "sensitive" : false
             },
             "Store State" : {
